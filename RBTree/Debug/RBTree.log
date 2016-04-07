@@ -1,0 +1,5 @@
+﻿  rbtree.cpp
+d:\programs\rbtree\rbtree\rbtree.cpp(8): warning C4101: “x”: 未引用的局部变量
+d:\programs\rbtree\rbtree\rbtree.cpp(378): warning C4715: “rbSearch”: 不是所有的控件路径都返回值
+  RBTree.vcxproj -> D:\Programs\RBTree\Debug\RBTree.exe
+  RBTree.vcxproj -> D:\Programs\RBTree\Debug\RBTree.pdb (Partial PDB)
